@@ -2,9 +2,6 @@
 
 I'm Hasin. Javascript and Ruby developer.
 
-## My Github stats
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Knighto05&theme=react-dark)](https://github.com/Knighto05/github-readme-activity-graph)
-
 
 <!--
 **Knighto05/Knighto05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
