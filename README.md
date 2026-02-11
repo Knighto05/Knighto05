@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Hasin. Javascript and Ruby developer.
+I'm Hasin. I'm a senior Typescript developer, and learning Python.
+
+Missing Ruby but did not get projects since long ago. Interested in trying Zig as a low level coding language since my C skills didn't evolve since my teenage years
 
 
 <!--
